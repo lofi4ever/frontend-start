@@ -9,5 +9,6 @@ module.exports = {
       input: './js/src/index.js',
       output: './js'
     }
-  }
+  },
+  isLocal: true
 }
